@@ -1,255 +1,268 @@
-5294: Avengers: Infinity War - Part I
-4003: Deadpool 2
 3247: Avengers: Infinity War - Part I; Deadpool 2;
-2976: Spider-Man: Into the Spider-Verse
-2771: Avengers: Infinity War - Part II
-2729: Incredibles 2
-2202: A Quiet Place
+2081: Avengers: Infinity War - Part I; Spider-Man: Into the Spider-Verse;
 2118: Avengers: Infinity War - Part I; Avengers: Infinity War - Part II;
 2103: Avengers: Infinity War - Part I; Incredibles 2;
-2081: Avengers: Infinity War - Part I; Spider-Man: Into the Spider-Verse;
-2052: Bohemian Rhapsody
-1916: Annihilation
-1898: Isle of Dogs
-1826: Ant-Man and the Wasp
-1812: Green Book
-1748: Deadpool 2; Incredibles 2;
-1727: Avengers: Infinity War - Part II; Spider-Man: Into the Spider-Verse;
-1676: Ant-Man and the Wasp; Avengers: Infinity War - Part I;
-1525: Deadpool 2; Spider-Man: Into the Spider-Verse;
-1525: Mission: Impossible - Fallout
-1474: Avengers: Infinity War - Part II; Deadpool 2;
-1465: Solo: A Star Wars Story
-1437: A Quiet Place; Avengers: Infinity War - Part I;
-1352: Ant-Man and the Wasp; Deadpool 2;
-1317: Game Night
-1278: Hereditary
-1263: Captain Marvel
-1247: A Quiet Place; Deadpool 2;
-1235: Incredibles 2; Spider-Man: Into the Spider-Verse;
-1227: Avengers: Infinity War - Part I; Mission: Impossible - Fallout;
+1437: Avengers: Infinity War - Part I; A Quiet Place;
 1226: Avengers: Infinity War - Part I; Bohemian Rhapsody;
-1215: BlacKkKlansman
-1202: Annihilation; Avengers: Infinity War - Part I;
+1202: Avengers: Infinity War - Part I; Annihilation;
 1200: Avengers: Infinity War - Part I; Isle of Dogs;
-1183: Avengers: Infinity War - Part I; Solo: A Star Wars Story;
-1150: Avengers: Infinity War - Part I; Captain Marvel;
-1130: Spider-Man: Far from Home
-1093: Venom
-1084: Ant-Man and the Wasp; Avengers: Infinity War - Part II;
-1058: Avengers: Infinity War - Part II; Captain Marvel;
-1043: A Quiet Place; Annihilation;
-1038: Bohemian Rhapsody; Deadpool 2;
-1036: Avengers: Infinity War - Part II; Spider-Man: Far from Home;
-1025: Upgrade
-1019: Deadpool 2; Mission: Impossible - Fallout;
-1018: Avengers: Infinity War - Part II; Incredibles 2;
-1013: A Star Is Born
-997: Annihilation; Deadpool 2;
-986: Ant-Man and the Wasp; Spider-Man: Into the Spider-Verse;
-975: Deadpool 2; Isle of Dogs;
-971: Ant-Man and the Wasp; Incredibles 2;
-964: Deadpool 2; Solo: A Star Wars Story;
-943: Aquaman
+1676: Avengers: Infinity War - Part I; Ant-Man and the Wasp;
 926: Avengers: Infinity War - Part I; Green Book;
-920: Bohemian Rhapsody; Spider-Man: Into the Spider-Verse;
-920: The Ballad of Buster Scruggs
+1227: Avengers: Infinity War - Part I; Mission: Impossible - Fallout;
+1183: Avengers: Infinity War - Part I; Solo: A Star Wars Story;
+904: Avengers: Infinity War - Part I; Game Night;
+731: Avengers: Infinity War - Part I; Hereditary;
+1150: Avengers: Infinity War - Part I; Captain Marvel;
+715: Avengers: Infinity War - Part I; BlacKkKlansman;
 915: Avengers: Infinity War - Part I; Spider-Man: Far from Home;
 908: Avengers: Infinity War - Part I; Venom;
-905: A Quiet Place; Spider-Man: Into the Spider-Verse;
-904: Avengers: Infinity War - Part I; Game Night;
-887: Jurassic World: Fallen Kingdom
-875: A Quiet Place; Incredibles 2;
-875: Bohemian Rhapsody; Green Book;
-874: Fantastic Beasts and Where to Find Them 2
-873: Bird Box
-872: Spider-Man: Far from Home; Spider-Man: Into the Spider-Verse;
-859: Captain Marvel; Deadpool 2;
-859: Once Upon a Time in Hollywood
-850: Ocean's 8
-845: Green Book; Spider-Man: Into the Spider-Verse;
-839: A Quiet Place; Hereditary;
-831: Incredibles 2; Isle of Dogs;
-829: Captain Marvel; Spider-Man: Into the Spider-Verse;
-828: Avengers: Infinity War - Part II; Bohemian Rhapsody;
-828: Deadpool 2; Game Night;
-827: Ant-Man and the Wasp; Captain Marvel;
-819: Aquaman; Avengers: Infinity War - Part I;
-812: Searching
-810: Deadpool 2; Venom;
-804: A Quiet Place; Avengers: Infinity War - Part II;
-801: Roma
-799: Ant-Man and the Wasp; Mission: Impossible - Fallout;
-794: Avengers: Infinity War - Part II; Green Book;
-793: Ant-Man and the Wasp; Solo: A Star Wars Story;
-792: Joker
-791: Black Mirror: Bandersnatch
-781: Isle of Dogs; Spider-Man: Into the Spider-Verse;
-780: Avengers: Infinity War - Part II; Mission: Impossible - Fallout;
-777: Incredibles 2; Mission: Impossible - Fallout;
-772: Annihilation; Spider-Man: Into the Spider-Verse;
-765: Us
-761: Sorry to Bother You
-758: Bohemian Rhapsody; Incredibles 2;
-752: Mission: Impossible - Fallout; Spider-Man: Into the Spider-Verse;
-746: Deadpool 2; Green Book;
-741: Tomb Raider
-739: Avengers: Infinity War - Part II; Solo: A Star Wars Story;
-739: Incredibles 2; Solo: A Star Wars Story;
-731: Avengers: Infinity War - Part I; Hereditary;
-731: John Wick: Chapter 3 – Parabellum
-728: Annihilation; Avengers: Infinity War - Part II;
-726: Avengers: Infinity War - Part I; Jurassic World: Fallen Kingdom;
 726: Avengers: Infinity War - Part I; Upgrade;
-724: Deadpool 2; Spider-Man: Far from Home;
-716: Annihilation; Hereditary;
-715: Avengers: Infinity War - Part I; BlacKkKlansman;
-714: Solo: A Star Wars Story; Spider-Man: Into the Spider-Verse;
-713: A Quiet Place; Ant-Man and the Wasp;
-710: A Quiet Place; Isle of Dogs;
-709: Free Solo
-707: Aquaman; Deadpool 2;
-686: A Quiet Place; Bohemian Rhapsody;
-682: Crazy Rich Asians
-682: First Man
-672: Deadpool 2; Upgrade;
-667: A Quiet Place; Game Night;
-663: Ant-Man and the Wasp; Venom;
-662: Aquaman; Avengers: Infinity War - Part II;
-660: Avengers: Infinity War - Part I; Fantastic Beasts and Where to Find Them 2;
-659: BlacKkKlansman; Deadpool 2;
-654: Avengers: Infinity War - Part II; Venom;
-653: Annihilation; Incredibles 2;
-652: A Quiet Place; Mission: Impossible - Fallout;
-642: Shazam!
-640: Annihilation; Ant-Man and the Wasp;
-637: Captain Marvel; Incredibles 2;
-634: A Star Is Born; Bohemian Rhapsody;
-632: Ant-Man and the Wasp; Aquaman;
-629: Deadpool 2; Hereditary;
-628: A Quiet Place; Solo: A Star Wars Story;
-625: Annihilation; Isle of Dogs;
-622: Mission: Impossible - Fallout; Solo: A Star Wars Story;
-620: Spider-Man: Into the Spider-Verse; Venom;
-618: Bohemian Rhapsody; Isle of Dogs;
-618: Deadpool 2; Jurassic World: Fallen Kingdom;
-615: Alita: Battle Angel
-614: A Quiet Place; Upgrade;
-611: Annihilation; Game Night;
-611: Ralph Breaks the Internet
-609: A Star Is Born; Avengers: Infinity War - Part I;
-605: Annihilation; Solo: A Star Wars Story;
-605: Avengers: Infinity War - Part I; Ocean's 8;
-602: Red Sparrow
-601: Ant-Man and the Wasp; Spider-Man: Far from Home;
-598: Ant-Man and the Wasp; Game Night;
-598: Bad Times at the El Royale
-595: Ant-Man and the Wasp; Bohemian Rhapsody;
-595: Captain Marvel; Spider-Man: Far from Home;
-591: Annihilation; Mission: Impossible - Fallout;
-585: Aquaman; Spider-Man: Into the Spider-Verse;
-585: Glass
-584: Game Night; Incredibles 2;
-583: Annihilation; Upgrade;
-580: Won't You Be My Neighbor?
-578: BlacKkKlansman; Spider-Man: Into the Spider-Verse;
-575: A Quiet Place; BlacKkKlansman;
-575: Avengers: Infinity War - Part I; Tomb Raider;
-574: Avengers: Infinity War - Part II; John Wick: Chapter 3 – Parabellum;
-566: Hereditary; Spider-Man: Into the Spider-Verse;
-564: BlacKkKlansman; Bohemian Rhapsody;
-561: Deadpool 2; Fantastic Beasts and Where to Find Them 2;
-560: Avengers: Infinity War - Part II; Isle of Dogs;
-559: Annihilation; Bohemian Rhapsody;
-557: The Cloverfield Paradox
-556: Avengers: Infinity War - Part II; Game Night;
-552: Avengers: Infinity War - Part I; John Wick: Chapter 3 – Parabellum;
-548: Avengers: Infinity War - Part I; Shazam!;
-547: A Quiet Place; Green Book;
-547: Green Book; Incredibles 2;
-546: Captain Marvel; Solo: A Star Wars Story;
-542: Avengers: Infinity War - Part I; Bird Box;
-541: Aquaman; Captain Marvel;
+609: Avengers: Infinity War - Part I; A Star Is Born;
+819: Avengers: Infinity War - Part I; Aquaman;
 538: Avengers: Infinity War - Part I; The Ballad of Buster Scruggs;
-537: BlacKkKlansman; Incredibles 2;
-537: Bohemian Rhapsody; Solo: A Star Wars Story;
-536: Avengers: Infinity War - Part II; Shazam!;
-534: A Star Is Born; Deadpool 2;
-534: Avengers: Infinity War - Part I; Searching;
-534: Eighth Grade
-532: Game Night; Spider-Man: Into the Spider-Verse;
-530: Incredibles 2; Venom;
-528: Annihilation; BlacKkKlansman;
-528: Deadpool 2; Ocean's 8;
-526: BlacKkKlansman; Isle of Dogs;
-523: Deadpool 2; Tomb Raider;
-522: A Quiet Place; Bird Box;
-519: Incredibles 2; Spider-Man: Far from Home;
-518: Bohemian Rhapsody; Mission: Impossible - Fallout;
-517: BlacKkKlansman; Green Book;
-517: Game Night; Mission: Impossible - Fallout;
-511: Captain Marvel; Mission: Impossible - Fallout;
-509: Captain Marvel; Venom;
-508: Ant-Man and the Wasp; Jurassic World: Fallen Kingdom;
-508: Avengers: Infinity War - Part II; BlacKkKlansman;
-506: Bohemian Rhapsody; Captain Marvel;
-505: Avengers: Infinity War - Part II; Once Upon a Time in Hollywood;
-504: A Quiet Place; Captain Marvel;
-504: Pacific Rim: Uprising
-502: Avengers: Infinity War - Part I; Black Mirror: Bandersnatch;
-502: Avengers: Infinity War - Part II; Fantastic Beasts and Where to Find Them 2;
-502: Deadpool 2; John Wick: Chapter 3 – Parabellum;
-500: Mission: Impossible - Fallout; Venom;
-499: Ant-Man and the Wasp; Isle of Dogs;
-498: Aquaman; Incredibles 2;
-496: Green Book; Isle of Dogs;
-495: A Quiet Place; Us;
-493: Aquaman; Venom;
-492: Alita: Battle Angel; Avengers: Infinity War - Part I;
-490: Deadpool 2; Shazam!;
-489: A Quiet Place; Venom;
-488: Love, Simon
-487: Avengers: Infinity War - Part II; Joker;
-485: A Quiet Place; A Star Is Born;
-485: A Star Is Born; Spider-Man: Into the Spider-Verse;
-485: Solo: A Star Wars Story; Venom;
-484: Avengers: Infinity War - Part I; Ralph Breaks the Internet;
-483: A Quiet Place; Searching;
-481: Annihilation; Captain Marvel;
-480: A Star Is Born; Green Book;
-478: Deadpool 2; Searching;
-478: Deadpool 2; The Ballad of Buster Scruggs;
-477: Bird Box; Deadpool 2;
-472: Avengers: Infinity War - Part II; Hereditary;
-472: Game Night; Solo: A Star Wars Story;
-471: Avengers: Infinity War - Part I; Sorry to Bother You;
-469: Avengers: Infinity War - Part I; Us;
-469: Hereditary; Incredibles 2;
-469: Hereditary; Isle of Dogs;
-469: Spider-Man: Into the Spider-Verse; Upgrade;
-467: Avengers: Infinity War - Part I; First Man;
-465: Annihilation; Venom;
-465: Avengers: Infinity War - Part II; Upgrade;
-464: Jurassic World: Fallen Kingdom; Solo: A Star Wars Story;
-462: Annihilation; Green Book;
-460: Avengers: Infinity War - Part I; Joker;
-460: Spider-Man: Into the Spider-Verse; The Ballad of Buster Scruggs;
-459: A Star Is Born; Incredibles 2;
-458: John Wick: Chapter 3 – Parabellum; Spider-Man: Into the Spider-Verse;
-456: Spider-Man: Into the Spider-Verse; Us;
-455: Isle of Dogs; Mission: Impossible - Fallout;
-454: Once Upon a Time in Hollywood; Spider-Man: Into the Spider-Verse;
-453: Ant-Man and the Wasp; Ocean's 8;
-453: Aquaman; Solo: A Star Wars Story;
-453: Isle of Dogs; Solo: A Star Wars Story;
-452: Avengers: Infinity War - Part I; Glass;
-450: Ant-Man and the Wasp; Fantastic Beasts and Where to Find Them 2;
-450: Aquaman; Mission: Impossible - Fallout;
+726: Avengers: Infinity War - Part I; Jurassic World: Fallen Kingdom;
+660: Avengers: Infinity War - Part I; Fantastic Beasts and Where to Find Them 2;
+542: Avengers: Infinity War - Part I; Bird Box;
 449: Avengers: Infinity War - Part I; Once Upon a Time in Hollywood;
-448: Alita: Battle Angel; Avengers: Infinity War - Part II;
-447: A Star Is Born; Avengers: Infinity War - Part II;
-447: Bohemian Rhapsody; Game Night;
-446: Incredibles 2; Jurassic World: Fallen Kingdom;
-446: Mission: Impossible - Fallout; Upgrade;
+605: Avengers: Infinity War - Part I; Ocean's 8;
+534: Avengers: Infinity War - Part I; Searching;
+460: Avengers: Infinity War - Part I; Joker;
+502: Avengers: Infinity War - Part I; Black Mirror: Bandersnatch;
+469: Avengers: Infinity War - Part I; Us;
+471: Avengers: Infinity War - Part I; Sorry to Bother You;
+575: Avengers: Infinity War - Part I; Tomb Raider;
+552: Avengers: Infinity War - Part I; John Wick: Chapter 3 – Parabellum;
+467: Avengers: Infinity War - Part I; First Man;
+548: Avengers: Infinity War - Part I; Shazam!;
+492: Avengers: Infinity War - Part I; Alita: Battle Angel;
+484: Avengers: Infinity War - Part I; Ralph Breaks the Internet;
+452: Avengers: Infinity War - Part I; Glass;
+1525: Deadpool 2; Spider-Man: Into the Spider-Verse;
+1474: Deadpool 2; Avengers: Infinity War - Part II;
+1748: Deadpool 2; Incredibles 2;
+1247: Deadpool 2; A Quiet Place;
+1038: Deadpool 2; Bohemian Rhapsody;
+997: Deadpool 2; Annihilation;
+975: Deadpool 2; Isle of Dogs;
+1352: Deadpool 2; Ant-Man and the Wasp;
+746: Deadpool 2; Green Book;
+1019: Deadpool 2; Mission: Impossible - Fallout;
+964: Deadpool 2; Solo: A Star Wars Story;
+828: Deadpool 2; Game Night;
+629: Deadpool 2; Hereditary;
+859: Deadpool 2; Captain Marvel;
+659: Deadpool 2; BlacKkKlansman;
+724: Deadpool 2; Spider-Man: Far from Home;
+810: Deadpool 2; Venom;
+672: Deadpool 2; Upgrade;
+534: Deadpool 2; A Star Is Born;
+707: Deadpool 2; Aquaman;
+478: Deadpool 2; The Ballad of Buster Scruggs;
+618: Deadpool 2; Jurassic World: Fallen Kingdom;
+561: Deadpool 2; Fantastic Beasts and Where to Find Them 2;
+477: Deadpool 2; Bird Box;
+528: Deadpool 2; Ocean's 8;
+478: Deadpool 2; Searching;
+523: Deadpool 2; Tomb Raider;
+502: Deadpool 2; John Wick: Chapter 3 – Parabellum;
+490: Deadpool 2; Shazam!;
+1727: Spider-Man: Into the Spider-Verse; Avengers: Infinity War - Part II;
+1235: Spider-Man: Into the Spider-Verse; Incredibles 2;
+905: Spider-Man: Into the Spider-Verse; A Quiet Place;
+920: Spider-Man: Into the Spider-Verse; Bohemian Rhapsody;
+772: Spider-Man: Into the Spider-Verse; Annihilation;
+781: Spider-Man: Into the Spider-Verse; Isle of Dogs;
+986: Spider-Man: Into the Spider-Verse; Ant-Man and the Wasp;
+845: Spider-Man: Into the Spider-Verse; Green Book;
+752: Spider-Man: Into the Spider-Verse; Mission: Impossible - Fallout;
+714: Spider-Man: Into the Spider-Verse; Solo: A Star Wars Story;
+532: Spider-Man: Into the Spider-Verse; Game Night;
+566: Spider-Man: Into the Spider-Verse; Hereditary;
+829: Spider-Man: Into the Spider-Verse; Captain Marvel;
+578: Spider-Man: Into the Spider-Verse; BlacKkKlansman;
+872: Spider-Man: Into the Spider-Verse; Spider-Man: Far from Home;
+620: Spider-Man: Into the Spider-Verse; Venom;
+469: Spider-Man: Into the Spider-Verse; Upgrade;
+485: Spider-Man: Into the Spider-Verse; A Star Is Born;
+585: Spider-Man: Into the Spider-Verse; Aquaman;
+460: Spider-Man: Into the Spider-Verse; The Ballad of Buster Scruggs;
+454: Spider-Man: Into the Spider-Verse; Once Upon a Time in Hollywood;
+456: Spider-Man: Into the Spider-Verse; Us;
+458: Spider-Man: Into the Spider-Verse; John Wick: Chapter 3 – Parabellum;
+1018: Avengers: Infinity War - Part II; Incredibles 2;
+804: Avengers: Infinity War - Part II; A Quiet Place;
+828: Avengers: Infinity War - Part II; Bohemian Rhapsody;
+728: Avengers: Infinity War - Part II; Annihilation;
+560: Avengers: Infinity War - Part II; Isle of Dogs;
+1084: Avengers: Infinity War - Part II; Ant-Man and the Wasp;
+794: Avengers: Infinity War - Part II; Green Book;
+780: Avengers: Infinity War - Part II; Mission: Impossible - Fallout;
+739: Avengers: Infinity War - Part II; Solo: A Star Wars Story;
+556: Avengers: Infinity War - Part II; Game Night;
+472: Avengers: Infinity War - Part II; Hereditary;
+1058: Avengers: Infinity War - Part II; Captain Marvel;
+508: Avengers: Infinity War - Part II; BlacKkKlansman;
+1036: Avengers: Infinity War - Part II; Spider-Man: Far from Home;
+654: Avengers: Infinity War - Part II; Venom;
+465: Avengers: Infinity War - Part II; Upgrade;
+447: Avengers: Infinity War - Part II; A Star Is Born;
+662: Avengers: Infinity War - Part II; Aquaman;
 445: Avengers: Infinity War - Part II; Jurassic World: Fallen Kingdom;
+502: Avengers: Infinity War - Part II; Fantastic Beasts and Where to Find Them 2;
+505: Avengers: Infinity War - Part II; Once Upon a Time in Hollywood;
+487: Avengers: Infinity War - Part II; Joker;
+574: Avengers: Infinity War - Part II; John Wick: Chapter 3 – Parabellum;
+536: Avengers: Infinity War - Part II; Shazam!;
+448: Avengers: Infinity War - Part II; Alita: Battle Angel;
+875: Incredibles 2; A Quiet Place;
+758: Incredibles 2; Bohemian Rhapsody;
+653: Incredibles 2; Annihilation;
+831: Incredibles 2; Isle of Dogs;
+971: Incredibles 2; Ant-Man and the Wasp;
+547: Incredibles 2; Green Book;
+777: Incredibles 2; Mission: Impossible - Fallout;
+739: Incredibles 2; Solo: A Star Wars Story;
+584: Incredibles 2; Game Night;
+469: Incredibles 2; Hereditary;
+637: Incredibles 2; Captain Marvel;
+537: Incredibles 2; BlacKkKlansman;
+519: Incredibles 2; Spider-Man: Far from Home;
+530: Incredibles 2; Venom;
+459: Incredibles 2; A Star Is Born;
+498: Incredibles 2; Aquaman;
+446: Incredibles 2; Jurassic World: Fallen Kingdom;
+686: A Quiet Place; Bohemian Rhapsody;
+1043: A Quiet Place; Annihilation;
+710: A Quiet Place; Isle of Dogs;
+713: A Quiet Place; Ant-Man and the Wasp;
+547: A Quiet Place; Green Book;
+652: A Quiet Place; Mission: Impossible - Fallout;
+628: A Quiet Place; Solo: A Star Wars Story;
+667: A Quiet Place; Game Night;
+839: A Quiet Place; Hereditary;
+504: A Quiet Place; Captain Marvel;
+575: A Quiet Place; BlacKkKlansman;
+489: A Quiet Place; Venom;
+614: A Quiet Place; Upgrade;
+485: A Quiet Place; A Star Is Born;
+522: A Quiet Place; Bird Box;
+483: A Quiet Place; Searching;
+495: A Quiet Place; Us;
+559: Bohemian Rhapsody; Annihilation;
+618: Bohemian Rhapsody; Isle of Dogs;
+595: Bohemian Rhapsody; Ant-Man and the Wasp;
+875: Bohemian Rhapsody; Green Book;
+518: Bohemian Rhapsody; Mission: Impossible - Fallout;
+537: Bohemian Rhapsody; Solo: A Star Wars Story;
+447: Bohemian Rhapsody; Game Night;
+506: Bohemian Rhapsody; Captain Marvel;
+564: Bohemian Rhapsody; BlacKkKlansman;
+634: Bohemian Rhapsody; A Star Is Born;
+625: Annihilation; Isle of Dogs;
+640: Annihilation; Ant-Man and the Wasp;
+462: Annihilation; Green Book;
+591: Annihilation; Mission: Impossible - Fallout;
+605: Annihilation; Solo: A Star Wars Story;
+611: Annihilation; Game Night;
+716: Annihilation; Hereditary;
+481: Annihilation; Captain Marvel;
+528: Annihilation; BlacKkKlansman;
+465: Annihilation; Venom;
+583: Annihilation; Upgrade;
 444: Annihilation; Bird Box;
+499: Isle of Dogs; Ant-Man and the Wasp;
+496: Isle of Dogs; Green Book;
+455: Isle of Dogs; Mission: Impossible - Fallout;
+453: Isle of Dogs; Solo: A Star Wars Story;
+469: Isle of Dogs; Hereditary;
+526: Isle of Dogs; BlacKkKlansman;
+799: Ant-Man and the Wasp; Mission: Impossible - Fallout;
+793: Ant-Man and the Wasp; Solo: A Star Wars Story;
+598: Ant-Man and the Wasp; Game Night;
+827: Ant-Man and the Wasp; Captain Marvel;
+601: Ant-Man and the Wasp; Spider-Man: Far from Home;
+663: Ant-Man and the Wasp; Venom;
+632: Ant-Man and the Wasp; Aquaman;
+508: Ant-Man and the Wasp; Jurassic World: Fallen Kingdom;
+450: Ant-Man and the Wasp; Fantastic Beasts and Where to Find Them 2;
+453: Ant-Man and the Wasp; Ocean's 8;
+517: Green Book; BlacKkKlansman;
+480: Green Book; A Star Is Born;
+622: Mission: Impossible - Fallout; Solo: A Star Wars Story;
+517: Mission: Impossible - Fallout; Game Night;
+511: Mission: Impossible - Fallout; Captain Marvel;
+500: Mission: Impossible - Fallout; Venom;
+446: Mission: Impossible - Fallout; Upgrade;
+450: Mission: Impossible - Fallout; Aquaman;
+472: Solo: A Star Wars Story; Game Night;
+546: Solo: A Star Wars Story; Captain Marvel;
+485: Solo: A Star Wars Story; Venom;
+453: Solo: A Star Wars Story; Aquaman;
+464: Solo: A Star Wars Story; Jurassic World: Fallen Kingdom;
+595: Captain Marvel; Spider-Man: Far from Home;
+509: Captain Marvel; Venom;
+541: Captain Marvel; Aquaman;
+493: Venom; Aquaman;
+546: A Quiet Place; Annihilation; Hereditary;
+468: Ant-Man and the Wasp; Captain Marvel; Spider-Man: Far from Home;
+467: Ant-Man and the Wasp; Mission: Impossible - Fallout; Solo: A Star Wars Story;
+449: Avengers: Infinity War - Part I; Avengers: Infinity War - Part II; BlacKkKlansman;
+695: Avengers: Infinity War - Part I; Avengers: Infinity War - Part II; Bohemian Rhapsody;
+998: Avengers: Infinity War - Part I; Avengers: Infinity War - Part II; Captain Marvel;
+468: Avengers: Infinity War - Part I; Avengers: Infinity War - Part II; Fantastic Beasts and Where to Find Them 2;
+522: Avengers: Infinity War - Part I; Avengers: Infinity War - Part II; Game Night;
+590: Avengers: Infinity War - Part I; Avengers: Infinity War - Part II; Green Book;
+955: Avengers: Infinity War - Part I; Avengers: Infinity War - Part II; Incredibles 2;
+501: Avengers: Infinity War - Part I; Avengers: Infinity War - Part II; Isle of Dogs;
+504: Avengers: Infinity War - Part I; Avengers: Infinity War - Part II; John Wick: Chapter 3 – Parabellum;
+736: Avengers: Infinity War - Part I; Avengers: Infinity War - Part II; Mission: Impossible - Fallout;
+499: Avengers: Infinity War - Part I; Avengers: Infinity War - Part II; Shazam!;
+710: Avengers: Infinity War - Part I; Avengers: Infinity War - Part II; Solo: A Star Wars Story;
+880: Avengers: Infinity War - Part I; Avengers: Infinity War - Part II; Spider-Man: Far from Home;
+614: Avengers: Infinity War - Part I; Avengers: Infinity War - Part II; Venom;
+475: Avengers: Infinity War - Part I; Bohemian Rhapsody; Captain Marvel;
+513: Avengers: Infinity War - Part I; Bohemian Rhapsody; Green Book;
+445: Avengers: Infinity War - Part I; Bohemian Rhapsody; Solo: A Star Wars Story;
+572: Avengers: Infinity War - Part I; Captain Marvel; Spider-Man: Far from Home;
+486: Avengers: Infinity War - Part I; Captain Marvel; Venom;
+493: Avengers: Infinity War - Part I; Deadpool 2; Fantastic Beasts and Where to Find Them 2;
+717: Avengers: Infinity War - Part I; Deadpool 2; Game Night;
+606: Avengers: Infinity War - Part I; Deadpool 2; Green Book;
+537: Avengers: Infinity War - Part I; Deadpool 2; Hereditary;
+1534: Avengers: Infinity War - Part I; Deadpool 2; Incredibles 2;
+815: Avengers: Infinity War - Part I; Deadpool 2; Isle of Dogs;
+566: Avengers: Infinity War - Part I; Deadpool 2; Jurassic World: Fallen Kingdom;
+943: Avengers: Infinity War - Part I; Deadpool 2; Mission: Impossible - Fallout;
+461: Avengers: Infinity War - Part I; Deadpool 2; Ocean's 8;
+453: Avengers: Infinity War - Part I; Deadpool 2; Shazam!;
+881: Avengers: Infinity War - Part I; Deadpool 2; Solo: A Star Wars Story;
+675: Avengers: Infinity War - Part I; Deadpool 2; Spider-Man: Far from Home;
+1345: Avengers: Infinity War - Part I; Deadpool 2; Spider-Man: Into the Spider-Verse;
+463: Avengers: Infinity War - Part I; Deadpool 2; Tomb Raider;
+584: Avengers: Infinity War - Part I; Deadpool 2; Upgrade;
+745: Avengers: Infinity War - Part I; Deadpool 2; Venom;
+666: Avengers: Infinity War - Part I; Incredibles 2; Isle of Dogs;
+697: Avengers: Infinity War - Part I; Incredibles 2; Mission: Impossible - Fallout;
+667: Avengers: Infinity War - Part I; Incredibles 2; Solo: A Star Wars Story;
+491: Avengers: Infinity War - Part I; Incredibles 2; Spider-Man: Far from Home;
+500: Avengers: Infinity War - Part I; Incredibles 2; Venom;
+565: Avengers: Infinity War - Part I; Mission: Impossible - Fallout; Solo: A Star Wars Story;
+460: Avengers: Infinity War - Part I; Mission: Impossible - Fallout; Venom;
+455: Avengers: Infinity War - Part I; Solo: A Star Wars Story; Venom;
+558: Avengers: Infinity War - Part I; Spider-Man: Into the Spider-Verse; Venom;
+582: Avengers: Infinity War - Part II; Captain Marvel; Spider-Man: Far from Home;
+455: Avengers: Infinity War - Part II; Captain Marvel; Venom;
+493: Avengers: Infinity War - Part II; Incredibles 2; Spider-Man: Far from Home;
+578: Deadpool 2; Incredibles 2; Isle of Dogs;
+614: Deadpool 2; Incredibles 2; Mission: Impossible - Fallout;
+569: Deadpool 2; Incredibles 2; Solo: A Star Wars Story;
+455: Deadpool 2; Incredibles 2; Venom;
+485: Deadpool 2; Mission: Impossible - Fallout; Solo: A Star Wars Story;
+505: Deadpool 2; Spider-Man: Into the Spider-Verse; Venom;
+565: Avengers: Infinity War - Part I; Avengers: Infinity War - Part II; Captain Marvel; Spider-Man: Far from Home;
+476: Avengers: Infinity War - Part I; Avengers: Infinity War - Part II; Incredibles 2; Spider-Man: Far from Home;
+525: Avengers: Infinity War - Part I; Deadpool 2; Incredibles 2; Isle of Dogs;
+584: Avengers: Infinity War - Part I; Deadpool 2; Incredibles 2; Mission: Impossible - Fallout;
+545: Avengers: Infinity War - Part I; Deadpool 2; Incredibles 2; Solo: A Star Wars Story;
+470: Avengers: Infinity War - Part I; Deadpool 2; Mission: Impossible - Fallout; Solo: A Star Wars Story;
+480: Avengers: Infinity War - Part I; Deadpool 2; Spider-Man: Into the Spider-Verse; Venom;
